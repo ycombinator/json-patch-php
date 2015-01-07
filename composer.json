@@ -7,5 +7,8 @@
       "psr-4": {
           "mikemccabe\\JsonPatch\\": "src"
       }
+  },
+  "require": {
+    "php": ">=5.3.3"
   }
 }
